@@ -1,0 +1,22 @@
+{
+  "name": "react-state-manager",
+  "version": "1.0.0",
+  "description": "A simple react state manager.",
+  "main": "src/use-global-state.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpfromer/react-state-manager.git"
+  },
+  "author": "Kyle Pfromer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kpfromer/react-state-manager/issues"
+  },
+  "homepage": "https://github.com/kpfromer/react-state-manager#readme",
+  "peerDependencies": {
+    "react": "~16.9.0"
+  }
+}
